@@ -22,14 +22,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 
@@ -67,16 +67,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3147tzispxvvti4buhh2xaad6gry&cover_image=true&theme=compact" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MrCodeEngineer&&style=flat-square" align="center" />
@@ -89,4 +80,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
