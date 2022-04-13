@@ -2,9 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-## Hi there 👨‍💻, I'm Yusuf
-### I'm 16 years old and I'm learning flutter and python. 
-
+## Hi there ⭐, I'm Yusuf
 
 - 🔭 I’m currently working on Flutter and Python
 
