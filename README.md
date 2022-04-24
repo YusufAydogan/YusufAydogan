@@ -10,9 +10,7 @@
 
 - SKİLLS: Flutter / Dart / Python / C#
 
-
-   <a href = "https://github.com/MrCodeEngineer"> Github </a>  [<img src='https://cdn-icons-png.flaticon.com/128/145/145807.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/yusuf-aydo%C4%9Fan/)  [<img src='https://www.flaticon.com/free-icon/instagram_1384063' alt='instagram' height='40'>](https://www.instagram.com/mr.code_engineer/)  [<img src='https://www.flaticon.com/free-icon/twitter_145812' alt='twitter' height='40'>](https://twitter.com/MrCodeEngineer)  [<img src='https://cdn-icons-png.flaticon.com/128/2111/2111628.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16126879)  [<img src='https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-128.png' alt='spotify' height='40'>](https://open.spotify.com/user/3147tzispxvvti4buhh2xaad6gry?si=561150974b044e15) 
-
+<a href = "https://github.com/MrCodeEngineer"> Github </a>  <a href = "https://www.linkedin.com/in/yusuf-aydo%C4%9Fan/"> Linkedin </a>  <a href = "https://www.instagram.com/mr.code_engineer/"> Instagram </a>  <a href = "https://twitter.com/MrCodeEngineer"> Twitter </a>  <a href = "https://stackoverflow.com/users/16126879"> Stackoverflow </a>  <a href = "https://open.spotify.com/user/3147tzispxvvti4buhh2xaad6gry?si=561150974b044e15"> Spotify </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCodeEngineer)](https://github.com/anuraghazra/github-readme-stats)
 
